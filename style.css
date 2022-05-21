@@ -13,6 +13,7 @@ header{
     padding: 5px 10px 5px 10px;
     font-size: 36px;
     text-decoration: none;
+    color: #5ccccc;
 }
 
 nav {
@@ -20,7 +21,7 @@ nav {
 }
 
 .link-nav {
-    color: black;
+    color: #5ccccc;
     font-size: 24px;
     margin-right: 35px;
     text-decoration: none;
